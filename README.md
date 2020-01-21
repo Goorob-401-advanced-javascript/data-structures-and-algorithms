@@ -1,12 +1,13 @@
 # data-structures-and-algorithms
 # Challenge Summary
-<!-- Short summary or background information -->
+To write a code that take two parameter sorted array and search key return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
 
 ## Challenge Description
-<!-- Description of the challenge -->
+
+learning what is binary search 
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+i search about binary search then i try to understand it then i write the code 
 
 ## Solution
-<!-- Embedded whiteboard image -->
