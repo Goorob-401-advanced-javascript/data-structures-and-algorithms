@@ -11,3 +11,4 @@ learning what is binary search
 i search about binary search then i try to understand it then i write the code 
 
 ## Solution
+![uml](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/array-binary-search/assets/array-binary-serach.jpg)
