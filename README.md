@@ -1,12 +1,12 @@
 # data-structures-and-algorithms
 # Challenge Summary
-<!-- Short summary or background information -->
 
+a function  which takes in an array and the value and 
 ## Challenge Description
-<!-- Description of the challenge -->
+
+a function called insertShiftArray which takes in an array and the value to be added .
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-
+a function  which takes in an array and the value to be added then return an array with the new value added at the middle index
 ## Solution
-<!-- Embedded whiteboard image -->
+![uml](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/array-shiftt/assets/array-shift.jpg)
