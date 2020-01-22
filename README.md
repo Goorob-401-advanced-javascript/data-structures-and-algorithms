@@ -1,12 +1,4 @@
-# data-structures-and-algorithms
-# Challenge Summary
-<!-- Short summary or background information -->
+# Table of Contents
 
-## Challenge Description
-<!-- Description of the challenge -->
-
-## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-
-## Solution
-<!-- Embedded whiteboard image -->
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title
