@@ -1,7 +1,7 @@
 # Table of Contents
-[Text](link)
+[1- code challange class2](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/pull/3)
 
-[Text](link)
+[2- code challange class 3](link)
 
 [Text](link)
 
