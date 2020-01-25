@@ -6,4 +6,4 @@
 write a function to accepts an integer, and returns the nth number in the Fibonacci sequence.
 
 ## Approach & Efficiency
-it worked  
+it worked  .
