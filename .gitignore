@@ -96,9 +96,9 @@ jspm_packages
 .npm
 
 # Optional REPL history
-<<<<<<< HEAD
-.node_repl_history
-=======
 .node_repl_history
 node_modules
->>>>>>> d3fdd09f334b065c7f082042049e7f203e912e1c
+
+
+
+
