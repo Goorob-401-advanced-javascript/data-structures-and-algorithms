@@ -5,12 +5,12 @@ function binarySearch(arr, searchKey) {
     let end = arr.length - 1;
     while (first <= end) {
         let midElement = Math.floor((first + end) / 2);
-        if (arr[midElement] === searchKey) return midElement;
+        if (arr[midElement] === searchKey){ return midElement }
         else if (arr[midElement] < searchKey)
-            first = midElement + 1;
-        else
-            end = midElement - 1;
+          {  first = midElement + 1;}
+        else{
+            end = midElement - 1;};
     }
     return -1;
 }
-module.exports=BinarySearch;
+module.exports = binarySearch;
