@@ -1,6 +1,15 @@
-# Table of Contents
-[1- code challange class 2 array shift ](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/pull/3)
+# data-structures-and-algorithms
+# Challenge Summary
+To write a code that take two parameter sorted array and search key return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
 
-[2- code challange class 3 array binary search ](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/pull/2)
+## Challenge Description
 
-[
+learning what is binary search 
+
+## Approach & Efficiency
+
+i search about binary search then i try to understand it then i write the code 
+
+## Solution
+![uml](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/array-binary-search/assets/array-binary-serach.jpg)
+
