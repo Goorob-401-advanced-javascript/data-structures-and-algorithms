@@ -1,12 +1,11 @@
 {
   "name": "code-challange-4",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fibonacci sequence and turn it to function",
   "main": "code-challange-4.js",
   "scripts": {
-    "test": "jest --verbose --coverage" ,
-    "lint" : "eslint '**/*.js'"
-    
+    "test": " jest --verbose --coverage " ,
+    "lint": " eslint '**/*.js'"
   },
   "keywords": [],
   "author": "",
