@@ -20,4 +20,4 @@ the approach that i used is linked list approach that have class format and whil
 
 ## Solution
 
-![UML](
+![UML](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/linked-list/20200203_233105.jpg)
