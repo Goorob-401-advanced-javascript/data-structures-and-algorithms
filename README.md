@@ -1,6 +1,13 @@
-# Table of Contents
-[1- code challange class 2 array shift ](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/pull/3)
+## Challenge Description
 
-[2- code challange class 3 array binary search ](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/pull/2)
+ to write a function to accepts an integer, and returns the nth number in the Fibonacci sequence.
 
-[
+## Approach & Efficiency
+
+i use Fibonacci Sequence approch , which is a set of numbers :
+ 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 
+next number is found by adding up the two numbers before it.
+
+## Solution
+
+![UML]
