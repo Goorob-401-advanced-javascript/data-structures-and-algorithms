@@ -11,4 +11,5 @@ adding a new methods to the linked list
 i used  classes  and constructor format , while loop also i create a tests for it 
 ## Solution
 
-![UML]
+![UML](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/ll-insertions/20200204_004602.jpg)
+
