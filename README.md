@@ -10,4 +10,4 @@ next number is found by adding up the two numbers before it.
 
 ## Solution
 
-![UML]
+![UML](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/code-challange-4/20200203_213419.jpg)
