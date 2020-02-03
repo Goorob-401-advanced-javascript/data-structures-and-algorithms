@@ -1,13 +1,14 @@
-## Challenge Description
+# Singly Linked List
+## challange summary 
 
- to write a function to accepts an integer, and returns the nth number in the Fibonacci sequence.
+adding a new methods to the linked list 
+## Challenge description
+- append(value) which adds a new node with the given value to the end of the list
+- insertBefore(value, newVal) which add a new node with the given newValue immediately before the first value node
+- insertAfter(value, newVal) which add a new node with the given newValue immediately after the first value node
 
 ## Approach & Efficiency
-
-i use Fibonacci Sequence approch , which is a set of numbers :
- 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 
-next number is found by adding up the two numbers before it.
-
+i used  classes  and constructor format , while loop also i create a tests for it 
 ## Solution
 
 ![UML]
