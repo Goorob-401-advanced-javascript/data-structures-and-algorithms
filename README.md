@@ -9,6 +9,6 @@ Write a method for the Linked List class which takes a number, k, as a parameter
 Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list.
 ## Solution
 
-![UML]()
+![UML](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/ll-kth-from-end/20200204_140847.jpg)
 
 
