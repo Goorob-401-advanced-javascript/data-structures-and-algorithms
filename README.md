@@ -1,13 +1,14 @@
-## Challenge Description
+# k-th value from the end of a linked list
+## challange summary 
+create a linked list then create a method that do what supposed  to do then test it
 
- to write a function to accepts an integer, and returns the nth number in the Fibonacci sequence.
+## Challenge description
+Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges.
 
 ## Approach & Efficiency
-
-i use Fibonacci Sequence approch , which is a set of numbers :
- 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 
-next number is found by adding up the two numbers before it.
-
+Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list.
 ## Solution
 
-![UML]
+![UML]()
+
+
