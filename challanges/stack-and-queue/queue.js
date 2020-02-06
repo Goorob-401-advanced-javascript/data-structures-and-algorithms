@@ -2,7 +2,7 @@
 
 class Queue {
   constructor(){
-    this.storage = new Array();
+    this.storage = [];
     this.front = null;
     this.rear = null;
   }

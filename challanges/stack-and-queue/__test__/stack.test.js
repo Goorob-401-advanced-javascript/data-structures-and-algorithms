@@ -4,7 +4,7 @@ const Stack = require('../stack.js');
 
 describe('Stack', () => {
   describe('push()', () => {
-    it('should push an item', () => {
+    it('(add) push an item', () => {
       let stack = new Stack();
       expect(stack.peek()).toBeNull();
       stack.push('Instance');
@@ -15,25 +15,25 @@ describe('Stack', () => {
   });
 
   describe('pop()', () => {
-    it('should return the top item and remove it', () => {
+    it('remove the top item ', () => {
       let stack = new Stack();
-      stack.push('Instance');
-      stack.push('Sally');
-      stack.push('Abu Aseel');
+      stack.push('shoroq');
+      stack.push('goorob');
+      stack.push('duha');
       let item = stack.pop();
-      expect(item).toEqual('Abu Aseel');
+      expect(item).toEqual('duha');
       stack.pop();
       item = stack.pop();
-      expect(item).toEqual('Instance');
+      expect(item).toEqual('shoroq');
       console.log(stack);
       expect(stack.peek()).toBeNull();
     });
   });
   describe('peek()', ()=> {
-    it('should return the top of stack', () => {
+    it('rturn top of stack', () => {
       let stack = new Stack();
-      stack.push('Instance');
-      expect(stack.peek()).toEqual('Instance');
+      stack.push('shoroq');
+      expect(stack.peek()).toEqual('shoroq');
     });
   });
   describe('isEmpty()' , ()=> {

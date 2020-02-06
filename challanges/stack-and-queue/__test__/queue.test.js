@@ -3,25 +3,25 @@
 const Queue = require('../queue.js');
 
 describe('Queue', () => {
-  it('should add item to end of queue', () => {
+  it('add item to the end ', () => {
     let queue = new Queue();
-    queue.enqueue('Instance');
-    queue.enqueue('Sally');
-    queue.enqueue('Abu Aseel');
-    expect(queue.front).toEqual('Instance');
-    expect(queue.rear).toEqual('Abu Aseel');
+    queue.enqueue('shoroq');
+    queue.enqueue('goorob');
+    queue.enqueue('duha');
+    expect(queue.front).toEqual('shoroq');
+    expect(queue.rear).toEqual('duha');
 
   });
 
-  it('should removed items from front of the queue', () => {
+  it('remove from the front ', () => {
     let queue = new Queue();
-    queue.enqueue('Instance');
-    queue.enqueue('Sally');
-    queue.enqueue('Abu Aseel');
+    queue.enqueue('shoroq');
+    queue.enqueue('goorob');
+    queue.enqueue('duha');
     let item = queue.dequeue();
-    expect(item).toEqual('Instance');
-    expect(queue.front).toEqual('Sally');
-    expect(queue.rear).toEqual('Abu Aseel');
+    expect(item).toEqual('shoroq');
+    expect(queue.front).toEqual('goorob');
+    expect(queue.rear).toEqual('duha');
     queue.dequeue();
     queue.dequeue();
     expect(queue.dequeue()).toBeNull();

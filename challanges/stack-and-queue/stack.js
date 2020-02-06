@@ -2,7 +2,7 @@
 
 class Stack{
   constructor(){
-    this.storage = new Array();
+    this.storage = [];
     this.top = null;
   }
 
