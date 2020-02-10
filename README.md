@@ -1,13 +1,15 @@
-## Challenge Description
+# Queue-with-stacks 
+## challange summary 
 
- to write a function to accepts an integer, and returns the nth number in the Fibonacci sequence.
+Implement a Queue using two Stacks.
+
+## Challenge description
+Create a brand new PseudoQueue class , this PseudoQueue class will implement our standard queue , but will internally only utilize 2 Stack objects. 
+- enqueue(value) which inserts value into the PseudoQueue, using a first-in, first-out approach.
+- dequeue() which extracts a value from the PseudoQueue, using a first-in, first-out approach.
 
 ## Approach & Efficiency
-
-i use Fibonacci Sequence approch , which is a set of numbers :
- 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 
-next number is found by adding up the two numbers before it.
+only take up O(1) at most and for space it should be O(n) .
 
 ## Solution
-
 ![UML]
