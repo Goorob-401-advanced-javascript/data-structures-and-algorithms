@@ -12,4 +12,4 @@ Create a brand new PseudoQueue class , this PseudoQueue class will implement our
 only take up O(1) at most and for space it should be O(n) .
 
 ## Solution
-![UML]
+![UML](https://github.com/Goorob-401-advanced-javascript/data-structures-and-algorithms/blob/queue-with-stacks/20200210_141653.jpg)
