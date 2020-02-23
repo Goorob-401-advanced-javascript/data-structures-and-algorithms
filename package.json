@@ -10,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest --verbose --coverage",
-    "lint" : "eslint **/*.js"
+    "lint" : "eslint **/*.js" ,
+    "start" : "node insertionSort.js"
   },
   "repository": {
     "type": "git",
