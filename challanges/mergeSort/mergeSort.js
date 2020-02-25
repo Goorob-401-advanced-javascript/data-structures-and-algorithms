@@ -1,5 +1,4 @@
 'use strict';
-'use strict' ;
 function mergeSort(arr){
  let n = arr.length ;
  if (n>1){
